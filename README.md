@@ -33,7 +33,7 @@ Este repositório contém uma análise detalhada das vagas de TI para desenvolve
 - [GitHub](https://github.com/AndreVictorLuiz)  
 
 ## 📌 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AndreVictorLuiz/pesquisa-mercado-ti-2025/blob/b2154f6c94d2fef11b1618c6455442323880eb21/LICENSE) para detalhes.
 
 ---
 
